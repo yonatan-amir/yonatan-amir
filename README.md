@@ -49,7 +49,6 @@ I'm especially interested in roles where I can contribute as a developer while c
 
 ## Connect
 
-- Berlin, Germany
 - GitHub: [@Jonathanamir1](https://github.com/Jonathanamir1)
 - LinkedIn: [linkedin.com/in/yamir1](https://linkedin.com/in/yamir1)
 - Email: jonathanamir1@gmail.com
