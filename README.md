@@ -1,4 +1,4 @@
-# Hi, I'm Jonathan 👋
+# Hi, I'm Yonatan 👋
 
 I'm a developer based in Berlin with experience building real client-facing web applications and custom business tools.
 
