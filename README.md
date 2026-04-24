@@ -29,9 +29,6 @@ Right now I’m focused on improving my engineering depth through:
 - **42Berlin**  
   My 42 curriculum repository, including C projects and systems-oriented learning.
 
-- **TrackFlow API**  
-  A backend project exploring workspace, authentication, and file-management concepts for collaborative creative workflows.
-
 ## Tech I work with
 
 **Languages**  
